@@ -13,10 +13,6 @@
 <p> Empowering users with control, Task Manager offers a range of customization options for tasks. 
   Users can specify details such as title, due date, due time, priority, category, and task specifics, tailoring their task management to suit their unique needs.</p>
 
-<h4>3. Integration with Backend JSON API</h4>
-<p> To ensure swift and efficient data management, Task Manager seamlessly integrates with a robust backend JSON API. 
-  This integration not only enhances the application's performance but also provides a foundation for future scalability.</p>
-
 
 <h3>Usage</h3>
 
@@ -27,10 +23,11 @@
 <p> On the right side of the "All Tasks" page, users can access a detailed view of individual tasks. This view allows users to directly edit, delete, and update status details, providing a comprehensive suite of options for effective task management.</p>
 
 
+<h3>Experience Seamless Task Management</h3>
 
+<p> Task Manager transforms the often mundane task management process into a seamless and enjoyable experience. 
+  The combination of a user-friendly interface, extensive customization options, and efficient data management through backend API integration makes productivity a breeze.</p>
 
+Check out the Task Manager here : <a href="https://rvp6696.github.io/Task-Manager/"> <b>Click Here</b> </a>
 
-
-
-
-
+Happy task managing!
