@@ -1,7 +1,7 @@
 <h1>Task Manager</h1>
 
 <p>Task Manager is a meticulously crafted web application designed to streamline task organization and elevate productivity. 
-  This project showcases my skills in frontend UI development and is aimed at providing users with a seamless and intuitive task management experience.</p>
+  This project is aimed at providing users with a seamless and intuitive task management experience.</p>
 
 <h3>Key Features</h3>
 
@@ -25,3 +25,12 @@
 
 <h4>Detailed Task View</h4>
 <p> On the right side of the "All Tasks" page, users can access a detailed view of individual tasks. This view allows users to directly edit, delete, and update status details, providing a comprehensive suite of options for effective task management.</p>
+
+
+
+
+
+
+
+
+
