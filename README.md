@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+<h1>Task Manager</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Task Manager is a meticulously crafted web application designed to streamline task organization and elevate productivity. 
+  This project showcases my skills in frontend UI development and is aimed at providing users with a seamless and intuitive task management experience.</p>
 
-## Available Scripts
+<h3>Key Features</h3>
 
-In the project directory, you can run:
+<h4>1. User-Friendly Interface</h4>
+<p> Task Manager boasts a user-friendly interface that simplifies task creation and management. 
+  The application's design prioritizes ease of use, ensuring a smooth experience for users at every step.</p>
 
-### `npm start`
+<h4>2. Customization Options</h4>
+<p> Empowering users with control, Task Manager offers a range of customization options for tasks. 
+  Users can specify details such as title, due date, due time, priority, category, and task specifics, tailoring their task management to suit their unique needs.</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h4>3. Integration with Backend JSON API</h4>
+<p> To ensure swift and efficient data management, Task Manager seamlessly integrates with a robust backend JSON API. 
+  This integration not only enhances the application's performance but also provides a foundation for future scalability.</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+<h3>Usage</h3>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h4>Accessing "All Tasks" Page</h4>
+<p> Upon logging in, users are greeted by the "All Tasks" page. The left side features a meticulously organized table that provides a clear overview of all tasks. Radio buttons facilitate easy categorization based on task status, enabling users to quickly identify and prioritize their workload.</p>
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h4>Detailed Task View</h4>
+<p> On the right side of the "All Tasks" page, users can access a detailed view of individual tasks. This view allows users to directly edit, delete, and update status details, providing a comprehensive suite of options for effective task management.</p>
